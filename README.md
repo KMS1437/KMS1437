@@ -7,9 +7,14 @@ KMS1437
 Я живу в славном Российском городке Кемерово, мне 14 лет и я начинающий кодер. 😊
 
 ### Проекты:
-🐑 [Книжный Баран](https://github.com/KMS1437/unicum/tree/main/projects/Книжный%20Баран)   
-🏙 [Игра в Города](https://github.com/KMS1437/unicum/tree/main/projects/Города)   
-🤖 [Telegram-Бот по Алгебре](https://github.com/KMS1437/mini-projects/tree/main/botstg/drobi)   
+<div id="header" align="center">
+  <a href="https://github.com/KMS1437/unicum/tree/main/projects/Книжный%20Баран">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Noto_Emoji_v2.034_1f40f.svg/1200px-Noto_Emoji_v2.034_1f40f.svg.png" alt="🐑Книжный баран" width=60 heigth=60/>
+  <a href="https://github.com/KMS1437/unicum/tree/main/projects/Города">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Noto_Emoji_Oreo_1f303.svg/640px-Noto_Emoji_Oreo_1f303.svg.png" alt="🏙Игра в Города" width=60 heigth=60/>
+  <a href="https://github.com/KMS1437/mini-projects/tree/main/botstg/drobi">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Noto_Emoji_Pie_1f916.svg/1024px-Noto_Emoji_Pie_1f916.svg.png" alt="🤖 Telegram-Бот по Алгебре" width=60 heigth=60/>
+</div> 
 
 ### Контакты:
 
