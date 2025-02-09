@@ -12,7 +12,7 @@
   <a href="https://github.com/KMS1437/unicum/tree/main/projects/Города">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Noto_Emoji_Oreo_1f303.svg/640px-Noto_Emoji_Oreo_1f303.svg.png" alt="City Game" width=50/>
   </a>
-  <a href="https://github.com/KMS1437/mini-projects/tree/main/botstg/drobi">
+  <a href="https://github.com/KMS1437/project_unicum">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Noto_Emoji_Pie_1f916.svg/1024px-Noto_Emoji_Pie_1f916.svg.png" alt="Algebra Bot" width=50/>
   </a>
 </div>
