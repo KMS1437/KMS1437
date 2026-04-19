@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 About Me</h1>
   <p><strong>KMS1437</strong></p>
-  <p>📍 Kemerovo, Russia | 🎂 15 years old | 💻 Beginner Coder</p>
+  <p>📍 Kemerovo, Russia | 🎂 16 years old</p>
 </div>
 
 ---
